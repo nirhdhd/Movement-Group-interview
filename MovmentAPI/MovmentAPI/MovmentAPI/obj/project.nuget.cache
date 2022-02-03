@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "pDoiXrNYcC8sHOGXtWam+bCvRZQ6yWhmF8N6O6/9ihQTQobZ7+ST2JK0FDfMBODyv0zeHl61md7Rpq69GyGbjA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nirhdhd\\Desktop\\movment\\MovmentAPI\\MovmentAPI\\MovmentAPI\\MovmentAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nirhdhd\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Nirhdhd\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Nirhdhd\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Nirhdhd\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Nirhdhd\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Nirhdhd\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "C:\\Users\\Nirhdhd\\.nuget\\packages\\system.servicemodel.syndication\\6.0.0\\system.servicemodel.syndication.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
